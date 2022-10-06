@@ -1,5 +1,1 @@
-let hello="Hello";
-returnHello=()=>{
-  console.log(hello);
-}
-returnHello();
+console.log(hello);
